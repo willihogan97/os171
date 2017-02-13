@@ -20,3 +20,4 @@ drwxr-xr-x  2 william.adjandra StafCS 4096 Feb 13 16:51 week09
 drwxr-xr-x  2 william.adjandra StafCS 4096 Feb 13 16:51 week10
 drwxr-xr-x  2 william.adjandra StafCS 4096 Feb 13 16:52 xtra
 /home/fasilkom/mahasiswa/w/william.adjandra/os171/week01
+Today is 13 Feb 2017 at 17:32:44
