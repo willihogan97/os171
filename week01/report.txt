@@ -1,0 +1,2 @@
+Membuat file, melakukan push dan pull dan text editor dengan vi, vim atau
+nano
