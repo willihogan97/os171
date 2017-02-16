@@ -1,0 +1,7 @@
+w01-130217-17-PS-About: Tutorial Lab01
+w01-140217-13-LR-About: Scripting, From: Lecturer
+w01-140217-13-LR-About: Scripting, From: Lecturer
+w01-140217-13-LR-About: Scripting, From: Lecturer
+w01-160217-13-LR-About: License, From: Lecturer
+w01-160217-13-LR-About: Regex, Form: Lecturer
+w01-160217-13-LR-About: Regex, From: Lecturer
