@@ -5,3 +5,11 @@ w01-140217-13-LR-About: Scripting, From: Lecturer
 w01-160217-13-LR-About: License, From: Lecturer
 w01-160217-13-LR-About: Regex, Form: Lecturer
 w01-160217-13-LR-About: Regex, From: Lecturer
+w02-200217-17-PS-About: Tutorial Lab02
+w02-210217-13-LR-About: Security
+w02-210217-13-LR-About: Security
+w02-210217-13-LR-About: Security
+w02-230217-13-LR-About: Intro to C
+w02-230217-13-LR-About: Intro to C
+w02-230217-13-LR-About: Intro to C
+w02-240217-14-PS-About: Editing Tutorial Lab02
