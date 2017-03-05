@@ -13,3 +13,15 @@ w02-230217-13-LR-About: Intro to C
 w02-230217-13-LR-About: Intro to C
 w02-230217-13-LR-About: Intro to C
 w02-240217-14-PS-About: Editing Tutorial Lab02
+w03-170226-23-PS-WEEK03 tutorial
+w03-170226-23-PS-WEEK03 tutorial
+w03-170228-13-LR-ABOUT: BIOS, boot, apa yang terjadi ketika komputer menyala
+w03-170228-13-LR-ABOUT: BIOS, boot, apa yang terjadi ketika komputer menyala
+w03-170228-13-LR-ABOUT: BIOS, boot, apa yang terjadi ketika komputer menyala
+w03-170302-13-LR-ABOUT: BIOS, boot, intro untuk addresing dan pointer
+w03-170302-13-LR-ABOUT: BIOS, boot, intro untuk addresing dan pointer
+w03-170302-13-LR-ABOUT: BIOS, boot, intro untuk addresing dan pointer
+w04-170305-16-PS-WEEK04 tutorial
+w04-170305-16-PS-WEEK04 tutorial
+w04-170305-16-PS-WEEK04 tutorial
+
