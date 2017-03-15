@@ -24,4 +24,14 @@ w03-170302-13-LR-ABOUT: BIOS, boot, intro untuk addresing dan pointer
 w04-170305-16-PS-WEEK04 tutorial
 w04-170305-16-PS-WEEK04 tutorial
 w04-170305-16-PS-WEEK04 tutorial
-
+w04-170307-13-LR-About: addressing & pointer
+w04-170307-13-LR-About: addressing & pointer
+w04-170307-13-LR-About: addressing & pointer
+w04-170309-13-LR-About: I/O Programming
+w04-170309-13-LR-About: I/O Programming
+w04-170309-13-LR-About: I/O Programming
+w05-170305-16-PS-WEEK05 tutorial
+w05-170305-16-PS-WEEK05 tutorial
+w05-170314-13-LR-About: Binding & linking, memory allocation & fragmentation
+w05-170314-13-LR-About: Binding & linking, memory allocation & fragmentation
+w05-170314-13-LR-About: Binding & linking, memory allocation & fragmentation
