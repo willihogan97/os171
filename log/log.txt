@@ -35,3 +35,20 @@ w05-170305-16-PS-WEEK05 tutorial
 w05-170314-13-LR-About: Binding & linking, memory allocation & fragmentation
 w05-170314-13-LR-About: Binding & linking, memory allocation & fragmentation
 w05-170314-13-LR-About: Binding & linking, memory allocation & fragmentation
+w05-170316-13-LR-About: Binding & linking, memory allocation & fragmentation
+w05-170316-13-LR-About: Binding & linking, memory allocation & fragmentation
+w05-170316-13-LR-About: Binding & linking, memory allocation & fragmentation
+w05-170321-13-LR-About: Physical memory dan review UTS
+w05-170321-13-LR-About: Physical memory dan review UTS
+w05-170321-16-LR-About: Assistance in class from teaching assistant
+w05-170321-16-LR-About: Assistance in class from teaching assistant
+w05-170321-16-LR-About: Assistance in class from teaching assistant
+w05-170321-16-LR-About: Assistance in class from teaching assistant
+w05-170323-13-LR-About: Review UTS
+w05-170323-13-LR-About: Review UTS
+w06-170402-23-PS-WEEK06 tutorial
+w06-170402-23-PS-WEEK06 tutorial
+w06-170406-13-LR-About: Thread and fork
+w06-170406-13-LR-About: Thread and fork
+w06-170406-13-LR-About: Thread and fork
+w06-170415-9-PS-WEEK06 tutorial
