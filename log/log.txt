@@ -52,3 +52,19 @@ w06-170406-13-LR-About: Thread and fork
 w06-170406-13-LR-About: Thread and fork
 w06-170406-13-LR-About: Thread and fork
 w06-170415-9-PS-WEEK06 tutorial
+w07-170416-14-PS-WEEK07 tutorial
+w07-170411-13-LR-About: Synchronization, From: Lecturer
+w07-170411-13-LR-About: Synchronization, From: Lecturer
+w07-170411-13-LR-About: Synchronization, From: Lecturer
+w07-170413-13-LR-About: Synchronization, From: Lecturer
+w07-170413-13-LR-About: Synchronization, From: Lecturer
+w07-170413-13-LR-About: Synchronization, From: Lecturer
+w07-170418-13-LR-About: Synchronization, From: Lecturer
+w07-170418-13-LR-About: Synchronization, From: Lecturer
+w07-170418-13-LR-About: Synchronization, From: Lecturer
+w08-170420-13-LR-About: Scheduling, From: Lecturer
+w08-170420-13-LR-About: Scheduling, From: Lecturer
+w08-170420-13-LR-About: Scheduling, From: Lecturer
+w07-170421-14-PS-WEEK07 tutorial
+w07-170421-14-PS-WEEK07 tutorial
+w07-170421-14-PS-WEEK07 tutorial
