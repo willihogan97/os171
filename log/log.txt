@@ -68,3 +68,5 @@ w08-170420-13-LR-About: Scheduling, From: Lecturer
 w07-170421-14-PS-WEEK07 tutorial
 w07-170421-14-PS-WEEK07 tutorial
 w07-170421-14-PS-WEEK07 tutorial
+w08-170426-13-PS-WEEK08 tutorial
+w08-170426-13-PS-WEEK08 tutorial
